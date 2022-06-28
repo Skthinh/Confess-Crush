@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
-}
+    titleWeb: "Hế nhoooooo",
+    introTitle: 'Bé oiiiiiiii',
+    introDesc: `Ngoài đường trời mưa và gió
+Bé ngoan ở nhà làm ch* zới anh:3`,
+    btnIntro: 'Hêhhehehehehe',
+    title: 'Phải chăng em đã yêu ngay từ tiếng cừi đầu tin 😈',
+    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười bé 🥴 ',
+    btnYes: 'Thích lắm ker owo',
+    btnNo: 'Hong thích mà chỉ có mê hoyyyyy uwu',
+    question: 'Nàm con chó cùng anh nháaaa 🤡',
+    btnReply: ' đố em biết anh đang nghĩ gì',
+    reply: 'Iu bé nhìu nhìuuuuuuuu achuchumoahhhhhh',
+    mess: 'Lần đầu còn nhìu xai xót mong bé bỏ wa 🥺',
+    messDesc: 'cẩn thận đừng đùa, ngiu bé dữ lúm đếy(agruuuu)',
+    btnAccept: 'Okiiiii dokieeeeeeee🌚 <3',
+    messLink: 'https://m.facebook.com/messages/read/?tid=cid.c.100007172791769%3A100015841624041&entrypoint=jewel&surface_hierarchy=unknown'
