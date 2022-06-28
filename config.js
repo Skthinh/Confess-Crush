@@ -14,4 +14,4 @@ const CONFIG = {
     mess: 'Và sau đêy nà lời chúc chang chọng nhấccccccc',
     messDesc: 'Chúc ngiu anh tủi new zẫn keep nét riêng cụa mìn, hong longer people pleaser,chúc u có thể pass kì thi THPT and đậu đc FTU nhóoo(thủ khoa càng tốt:3).',
     btnAccept: 'Piu piu đến đêy nà hạ màn mấc tiu òiiii',
-    messLink: 'https://www.messenger.com/t/100007172791769' }
+    messLink: 'https://www.messenger.com/t/100050400833917' }
