@@ -1,20 +1,24 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
-}
+    titleWeb: "Hế lu chào béeeeeeeeeeeeeee",
+    introTitle: 'Ngiuuuuuuuu oiiiiiiii',
+    introDesc: `Ngoài kia trời mưa và gió
+    Bé ngoan về cùng làm ch* với anh :3( chạ hỉu kỉu giề`,
+    btnIntro: 'Hong bấm nút này nà hong đượt đi típ douuuuuuuuu',
+    title: 'Happi birthdayyyyyyyyyyyyyyyy yayyyyyyyyyyyyyyyyyy 🥰',
+    desc: 'Vậy nà bé nhớn thêm mụt tủi òiiiii( dù zới ai đêy thì bé vẫn chỉ là con nít mà thui😎) , chúc bé lung lung iu đời zà tưi cừi mặc bão táp mưa sa nìaaaa tủi mới ăn khỏe mau lớn kẻo ng khác lo nhó, ăn sao cho hếc đau bụng hếc đau lưng nà pềct ',
+    btnYes: 'Ỏoooo iu anh ^^',
+    btnNo: 'Từ chối hiểu(Thách bé dám từ chối lời chúc cụa anh đếy😏)',
+    question: 'Bé cụa tủi mới gòy xẽ thành công cho mà sem, anh đảm bảo nungg hê hê',
+    btnReply: 'Anh chạ thưn iem :<',
+    reply: 'Yêu bé Võ nhắm nhắmmmm, nên nà đừn bùn nhóoo,bé bùn anh giãy đành đạch ra cho bé coai đếy >:(',
+    mess: 'Và sau đêy nà lời chúc chang chọng nhấccccccc',
+    messDesc: 'Chúc ngiu anh tủi new zẫn keep nét riêng cụa mìn, hong longer people pleaser,chúc u có thể pass kì thi THPT and đậu đc FTU nhóoo(thủ khoa càng tốt:3).',
+    btnAccept: 'Piu piu đến đêy nà hạ màn mấc tiu òiiii',
+    title: 'À quơn còn ziệc nèy',
+    desc: 'Bé ch accept my apology nên nà bé xẽ bị nhốt ở đêy mãi mãi😈😈😈',
+    btnYes: 'Accepttttttttttt mò',
+    btnNo: 'Hong accepttt, dỗi kerrr',
+    question: 'Ngày nà ngày CN có ngừi nèo gảnh hum tarrrrrrr, tiểu thần có mạn ý mún rủ ngừi đi chơi ákkkkkk ',
+    btnReply: 'Nhớ rep anh chong ib í chứ rep ở đêy tui hong biếc dou :( ',
+    reply: 'Bổn cô nương đêy rấc rảnh, hẹn ngươi vào lúc 5h chiều tại trường Cao Thắng nhé, k gặp k về',
+    messLink: 'https://www.messenger.com/t/100007172791769' }
