@@ -14,11 +14,4 @@ const CONFIG = {
     mess: 'Và sau đêy nà lời chúc chang chọng nhấccccccc',
     messDesc: 'Chúc ngiu anh tủi new zẫn keep nét riêng cụa mìn, hong longer people pleaser,chúc u có thể pass kì thi THPT and đậu đc FTU nhóoo(thủ khoa càng tốt:3).',
     btnAccept: 'Piu piu đến đêy nà hạ màn mấc tiu òiiii',
-    title: 'À quơn còn ziệc nèy',
-    desc: 'Bé ch accept my apology nên nà bé xẽ bị nhốt ở đêy mãi mãi😈😈😈',
-    btnYes: 'Accepttttttttttt mò',
-    btnNo: 'Hong accepttt, dỗi kerrr',
-    question: 'Ngày nà ngày CN có ngừi nèo gảnh hum tarrrrrrr, tiểu thần có mạn ý mún rủ ngừi đi chơi ákkkkkk ',
-    btnReply: 'Nhớ rep anh chong ib í chứ rep ở đêy tui hong biếc dou :( ',
-    reply: 'Bổn cô nương đêy rấc rảnh, hẹn ngươi vào lúc 5h chiều tại trường Cao Thắng nhé, k gặp k về',
     messLink: 'https://www.messenger.com/t/100007172791769' }
